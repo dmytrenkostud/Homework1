@@ -8,7 +8,7 @@ public class Array2D
     private int _row;
     private int _col;
 
-    //Конструктор
+    //Конструктор з параметром
     public Array2D(int rows, int colums)
     {
         _matrix = new int[rows, colums];
